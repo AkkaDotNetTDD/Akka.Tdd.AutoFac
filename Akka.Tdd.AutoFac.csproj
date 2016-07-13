@@ -51,7 +51,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Akka.Tdd, Version=0.0.0.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Akka.Tdd.0.0.3\lib\Akka.Tdd.dll</HintPath>
+      <HintPath>packages\Akka.Tdd.0.0.4\lib\Akka.Tdd.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Autofac, Version=3.5.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
